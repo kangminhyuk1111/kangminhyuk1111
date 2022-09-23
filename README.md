@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=KangMinHyuk&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=KangMinHyuk&fontSize=20&animation=fadeIn)
 
 ## Tech Stacks 💻
 
