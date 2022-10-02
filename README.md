@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=KangMinHyuk&fontSize=20&animation=fadeIn)
 
-## 💻 Tech Stacks
+## 💻 Tech Stacks 💻
 
 <div align=left> 
   <p>Launguage</p>
@@ -28,12 +28,12 @@
   <br>
 </div>
 
-## 🏆 Github Stats
+## 🏆 Github Stats 🏆
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangminhyuk1111&show_icons=true&theme=radical)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangminhyuk1111&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🎟 Contact
+## 🎟 Contact 🎟
 
 <div align=left>
   <p>email : rktqkr1313@gmail.com</p>
