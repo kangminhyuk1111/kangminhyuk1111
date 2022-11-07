@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4F?style=for-the-badge&logo=TailwindCSS&logoColor=white">
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4F?style=for-the-badge&logo=NextJS&logoColor=white">
   <br>
   
   <p>Tools</p>
