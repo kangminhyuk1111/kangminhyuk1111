@@ -29,7 +29,7 @@
 </div>
 
 ## Blog
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@minhyuk00](https://velog.io/@minhyuk00)
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> https://velog.io/@minhyuk00
 
 ## Project
 
