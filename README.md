@@ -43,5 +43,4 @@
 
 <div align=left>
   <p>email : rktqkr1313@gmail.com</p>
-  <p>kakaotalk : <a href=https://open.kakao.com/o/sfYmY6re>https://open.kakao.com/o/sfYmY6re</a></p>
 </div>
