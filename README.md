@@ -28,10 +28,10 @@
   <br>
 </div>
 
-## Blog
+## 📗Blog
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> https://velog.io/@minhyuk00
 
-## Project
+## 🔨Project
 풀스택 프로젝트 심부릉 react + express + redux
 - http://52.62.33.115/
 
