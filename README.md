@@ -31,6 +31,8 @@
 ## 📗Blog📗
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> https://velog.io/@minhyuk00
 
+<!--
+
 ## 🔨Project🔨
 ### 풀스택 프로젝트 심부릉 react + express + redux
 #### 심부름이 필요한 사람들을 위한 커뮤니티 플랫폼
@@ -59,6 +61,7 @@
 
 ![ezgif com-video-to-gif (19)](https://github.com/kangminhyuk1111/kangminhyuk1111/assets/96116158/e32b0c3e-e2cd-44b3-8320-89b38184b888)
 
+ -->
 
 ## 🏆 Github Stats 🏆
 
