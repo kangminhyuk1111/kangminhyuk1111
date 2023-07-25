@@ -1,8 +1,9 @@
+
+<div align=center> 
 # 안녕하세요 강민혁 입니다.
 
 ## 💻 Tech Stacks 💻
 
-<div align=left> 
   <p>Launguage</p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
