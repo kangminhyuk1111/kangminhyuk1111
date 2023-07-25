@@ -1,6 +1,7 @@
 
 <div align=center> 
-# 안녕하세요 강민혁 입니다.
+<h1>안녕하세요 강민혁 입니다.</h1>
+<h2>Web/App(Android) Dev</h2>
 
 ## 💻 Tech Stacks 💻
 
