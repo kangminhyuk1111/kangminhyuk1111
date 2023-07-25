@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=KangMinHyuk&fontSize=20&animation=fadeIn)
+# 안녕하세요 강민혁 입니다.
 
 ## 💻 Tech Stacks 💻
 
