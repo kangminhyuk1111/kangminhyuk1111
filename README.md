@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
-</div>
 
 ## 📗Blog📗
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> https://velog.io/@minhyuk00
@@ -76,6 +75,8 @@
 
 ## 🎟 Contact 🎟
 
-<div align=left>
+
   <p>email : rktqkr1313@gmail.com</p>
+
+
 </div>
