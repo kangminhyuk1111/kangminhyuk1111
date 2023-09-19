@@ -1,9 +1,8 @@
-
-<div> 
+<div style = "font-size: 8px;">  
 <h2>안녕하세요 강민혁 입니다.</h2>
 <h3>Web/App(Android) Dev</h3>
 
-## 💻 Tech Stacks 💻
+## 💻 Tech Stacks
 
   <p>Launguage</p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -25,13 +24,15 @@
   <br>
   
   <p>Tools</p>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-square&logo=github&logoColor=white">
+  <a href="https://github.com/kangminhyuk1111"><img src="https://img.shields.io/badge/github-181717?style=for-the-square&logo=github&logoColor=white"></a>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-square&logo=fontawesome&logoColor=white">
   <br>
 
-## 📗Blog📗
-<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-square&logo=Velog&logoColor=white"> https://velog.io/@minhyuk00
+## 📗 Blog
+<a href="https://velog.io/@minhyuk00">
+ <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-square&logo=Velog&logoColor=white">
+</a>
 
 <!--
 
@@ -65,15 +66,13 @@
 
  -->
 
-## 🏆 Github Stats 🏆
+## 🏆 Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangminhyuk1111&show_icons=true&theme=radical)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangminhyuk1111&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🎟 Contact 🎟
+## 🎟 Contact
 
-
-  <p>email : rktqkr1313@gmail.com</p>
-
+  <p>email : rkdglqkr12@naver.com</p>
 
 </div>
