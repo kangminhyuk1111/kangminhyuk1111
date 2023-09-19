@@ -7,31 +7,31 @@
 
   <p>Launguage</p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-square&logo=Kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-square&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-square&logo=typescript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-square&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-square&logo=mysql&logoColor=white">
   
   <p>Library</p>
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">  
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4F?style=for-the-badge&logo=TailwindCSS&logoColor=white">
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-square&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-square&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-square&logo=Node.js&logoColor=white">  
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-square&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-square&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-square&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4F?style=for-the-square&logo=TailwindCSS&logoColor=white">
   <br>
   
   <p>Tools</p>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-square&logo=fontawesome&logoColor=white">
   <br>
 
 ## 📗Blog📗
-<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> https://velog.io/@minhyuk00
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-square&logo=Velog&logoColor=white"> https://velog.io/@minhyuk00
 
 <!--
 
