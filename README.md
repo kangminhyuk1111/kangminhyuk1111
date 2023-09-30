@@ -71,6 +71,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangminhyuk1111&show_icons=true&theme=radical)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangminhyuk1111&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdglqkr12)](https://solved.ac/백준아이디/)
+
 ## 🎟 Contact
 
   <p>email : rkdglqkr12@naver.com</p>
