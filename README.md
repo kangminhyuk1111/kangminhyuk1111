@@ -1,5 +1,5 @@
 <div>  
-<h2>안녕하세요 강민혁 입니다.</h2>
+<h2>안녕하세요 강민혁입니다</h2>
 <h3>Web/App(Android) Dev</h3>
 
 ## 💻 Tech Stacks
