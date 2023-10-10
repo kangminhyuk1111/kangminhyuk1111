@@ -31,8 +31,8 @@
   <br>
 
 ## 📗 Blog
-<a href="https://velog.io/@minhyuk00">
- <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-square&logo=Velog&logoColor=white">
+<a href="https://kangminhyuk1111.tistory.com">
+ <img src="https://img.shields.io/badge/Tistory-EC4815?style=for-the-square&logo=Tistory&logoColor=white">
 </a>
 
 <!--
