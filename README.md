@@ -3,8 +3,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangminhyuk1111%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ## 💻 Tech Stacks
-
-  <p>Launguage</p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-square&logo=Kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-square&logo=javascript&logoColor=black"> 
@@ -14,8 +12,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-square&logo=Node.js&logoColor=white">  
   <img src="https://img.shields.io/badge/express-000000?style=for-the-square&logo=express&logoColor=white">
-  
-  <p>Library</p>
+  <br>
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-square&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-square&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-square&logo=bootstrap&logoColor=white">
