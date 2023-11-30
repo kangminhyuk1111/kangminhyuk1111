@@ -4,7 +4,7 @@
 
 ## 💻 Tech Stacks
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-square&logo=typescript&logoColor=black"> 
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-square&logo=Java&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-square&logo=Kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-square&logo=Python&logoColor=white">
   <br>
