@@ -2,7 +2,7 @@
 <h3>Study</h3>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangminhyuk1111%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-## 💻 Tech Stacks
+##  Tech Stacks
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-square&logo=typescript&logoColor=black"> 
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-square&logo=Kotlin&logoColor=white">
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-square&logo=react&logoColor=black"> 
   <br>
 
-## 📗 Blog
+##  Blog
 <a href="https://kangminhyuk1111.tistory.com">
  <img src="https://img.shields.io/badge/Tistory-EC4815?style=for-the-square&logo=Tistory&logoColor=white">
 </a>
