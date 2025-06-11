@@ -1,16 +1,22 @@
 <div>
-##  Tech Stacks
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-square&logo=typescript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-square&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-square&logo=Kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-square&logo=Python&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-square&logo=Node.js&logoColor=white">  
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-square&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-square&logo=react&logoColor=black"> 
-  <br>
+  
+## Tech Stacks
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> 
+<br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white">
+
+### 🚀 DevOps
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
 
 ##  Blog
 <a href="https://kangminhyuk1111.tistory.com">
