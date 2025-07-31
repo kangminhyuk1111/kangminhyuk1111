@@ -17,10 +17,13 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-square&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-square&logo=github-actions&logoColor=white">
 
-##  Blog
+## Blog
 <a href="https://kangminhyuk1111.tistory.com">
  <img src="https://img.shields.io/badge/Tistory-EC4815?style=for-the-square&logo=Tistory&logoColor=white">
 </a>
+
+## Solved
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rkdglqkr12)](https://solved.ac/rkdglqkr12)
 
 ## Certificate
 - 정보처리산업기사 2024-06
