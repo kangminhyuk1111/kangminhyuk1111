@@ -5,7 +5,7 @@
 
 ## 블로그
 <a href="https://kangminhyuk1111.tistory.com">
- <img src="https://img.shields.io/badge/Tistory-EC4815?style=for-the-square&logo=Tistory&logoColor=white">
+ Blog Link
 </a>
 
 ## 자격증
