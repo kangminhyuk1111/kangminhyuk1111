@@ -1,30 +1,16 @@
 <div>
-  
-## Tech Stacks
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-square&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-square&logo=Kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-square&logo=Spring-Security&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-square&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-square&logo=typescript&logoColor=white"> 
-<br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-square&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-square&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-square&logo=Redis&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-square&logo=Amazon-AWS&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-square&logo=GitHub&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-square&logo=github-actions&logoColor=white">
 
-## Blog
+## 경력
+- **2023.07 ~ ing: U&S Networks - 모바일 운영팀**
+
+## 블로그
 <a href="https://kangminhyuk1111.tistory.com">
  <img src="https://img.shields.io/badge/Tistory-EC4815?style=for-the-square&logo=Tistory&logoColor=white">
 </a>
 
-## Certificate
-- 정보처리산업기사 2024-06
-- SQLD 2024-09
+## 자격증
+- **정보처리산업기사 2024-06**
+- **SQLD 2024-09**
 
 <!--
 
