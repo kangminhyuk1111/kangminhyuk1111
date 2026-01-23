@@ -1,8 +1,5 @@
 <div>
 
-## 경력
-- **2023.07 ~ ing: U&S Networks - 모바일 운영팀**
-
 ## 블로그
 <a href="https://kangminhyuk1111.tistory.com">
  Blog Link
