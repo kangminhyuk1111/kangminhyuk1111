@@ -1,6 +1,5 @@
 <div>
-
-## 블로그
+## Blog
 <a href="https://kangminhyuk1111.tistory.com">
  Blog Link
 </a>
